@@ -1,4 +1,4 @@
-# 99 Bottle of Beer on the Wall song in x86 Assembly
+# 99 Bottles of Beer on the Wall song in x86 Assembly
 
 This is the "99 Bottles of Beer on the Wall" song written in x86 Assembly language using NASM. This song is commonly programmed when learning new programming languages; and yes, this is my first Assembly program involving NASM, so the code may not even be that good right now.
 
