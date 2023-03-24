@@ -4,7 +4,7 @@ This is the "99 Bottles of Beer on the Wall" song written in x86 Assembly langua
 
 The purpose of this program is for me to show what I learned when studying NASM. I'll certainly be learning more in the future - Assembly is a pretty cool language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/BHQE_ucI2Tw)
 
 ## Development Environment
 
